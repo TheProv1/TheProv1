@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @TheProv1.
-- 👀 I’m interested in Programming, technology and old school rap music
-- 🌱 I’m currently learning Computer Science Engineering
 - My areas of interest are in CyberSecurity, AI and Programming.
 
 <!---
