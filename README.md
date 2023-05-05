@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TheProv1.
 - An aspiring developer, who would like to collab if interested.
-- Inspired by The Red Baron, Tesla, Turing, Woz, Goggins, Elon and other legendary tech entrepreneurs. 
 - Interested in Programming, InfoSec, and Development
 
 <!---
