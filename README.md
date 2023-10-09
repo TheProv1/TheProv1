@@ -14,5 +14,3 @@ These are the tools and technologies I wield proficiently:
 
 - Programming languages: Proficient in Python, C, and Java
 - Skilled in Deploying Virtual Machines, Linux
-
-I extend an open invitation to engage in discussions, explore collaborative possibilities, or simply chat about all things tech-related. Let's embark on a journey of learning and mutual growth!
