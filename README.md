@@ -1,4 +1,4 @@
-# Greetings, I'm @TheProv1 👋
+# **Greetings, I'm @TheProv1** 👋
 
 I'm a dedicated software engineer deeply intrigued by the realm of cybersecurity. My mission is to continually explore and contribute to the dynamic intersection of technology and security. Here's a glimpse into my profile:
 
