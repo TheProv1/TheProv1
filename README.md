@@ -23,7 +23,6 @@ I'm a dedicated software engineer deeply intrigued by the realm of cybersecurity
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theprov1&show_icons=true&theme=dark&hide_border=true&cache_seconds=0010&locale=en" alt="theprov1" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theprov1&show_icons=true&theme=dark&hide_border=true&cache_seconds=0010&locale=en" alt="theprov1" /></p><br>
-<br><br><br><br><br><br>
+<a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheProv1&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&ring=EB6D0E" alt="GitHub Streak" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theprov1&theme=dark" alt="theprov1" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheProv1&langs_count=16&theme=dark)
