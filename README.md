@@ -7,6 +7,7 @@ I'm a dedicated software engineer deeply intrigued by the realm of cybersecurity
 🔒 Enthusiastic about cybersecurity: I'm committed to enhancing digital security through meticulous code craftsmanship.<br>
 🚀 I relish the opportunity to delve into diverse programming languages and tech stacks.<br>
 💬 I welcome connections and collaborative opportunities!<br>
+👨‍💻 Proficient languages include Python, Java, and C.<br>
 
 ## 🔧 Technology Arsenal
 
@@ -20,12 +21,9 @@ I'm a dedicated software engineer deeply intrigued by the realm of cybersecurity
 ![](https://img.shields.io/badge/Kali_Linux-informational?style=flat-square&logo=kalilinux&logoColor=white&color=AB7D00)
 ![](https://img.shields.io/badge/Bash_Scripting-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=4EAA25)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theprov1&show_icons=true&theme=dark&locale=en" alt="theprov1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theprov1&show_icons=true&theme=dark&hide_border=true&cache_seconds=0010&locale=en" alt="theprov1" /></p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theprov1&show_icons=true&theme=dark&hide_border=true&cache_seconds=0010&locale=en" alt="theprov1" /></p><br>
+<br><br><br><br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theprov1&show_icons=true&theme=dark&locale=en&layout=compact" alt="theprov1" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theprov1&" alt="theprov1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theprov1&theme=dark" alt="theprov1" /></p>
