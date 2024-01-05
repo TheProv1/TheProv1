@@ -25,4 +25,4 @@ I'm a dedicated software engineer deeply intrigued by the realm of cybersecurity
 
 <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheProv1&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&ring=EB6D0E" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheProv1&langs_count=16&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheProv1&langs_count=16&theme=dark&layout=compact)](https://github.com/TheProv1/github-readme-stats)
